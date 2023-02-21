@@ -1,9 +1,9 @@
 import React from 'react'
 import { Flex, Text, Box, Image } from '@chakra-ui/react'
-import Siglo21 from '../../src/assets/img/Siglo21.png'
-import Utn from '../../src/assets/img/UTN.png'
-import Itc from '../../src/assets/img/informaticCenter.png'
-import AlephAds from '../../src/assets/img/AlephAds.png'
+import Siglo21 from '../assets/img/Siglo21.png'
+import Utn from '../assets/img/UTN.png'
+import Itc from '../assets/img/informaticCenter.png'
+import AlephAds from '../assets/img/alephAds.png'
 
 const Academico = () => {
   return (
